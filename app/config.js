@@ -15,7 +15,7 @@ let RSBP_CONFIG = { // eslint-disable-line no-unused-vars
   "payee": {
     "name": "btcchat",
     "address": "1hehezYDn95RHFisQkBCf1rNL6p2oJmz1",
-    "currency": "IDR",
+    "currency": "BCC",
     "discount": 0 // in percent
   }
 };
