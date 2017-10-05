@@ -13,8 +13,8 @@ let RSBP_CONFIG = { // eslint-disable-line no-unused-vars
     "expiration": 2 * 60 * 1000 // in milliseconds
   },
   "payee": {
-    "name": "consensusReality",
-    "address": "1E16XPFWKY2XaFDDzS6V93hGdXP2QEnddY",
+    "name": "btcchat",
+    "address": "1hehezYDn95RHFisQkBCf1rNL6p2oJmz1",
     "currency": "IDR",
     "discount": 0 // in percent
   }
